@@ -1,0 +1,10 @@
+# Sample tracker configuration
+spring:
+  config:
+    activate:
+      on-profile: "dev"
+build:
+  version: "2.0"
+details:
+  name: "Tracker"
+  description: "Tracker is a simple application to track the user exercise actitvity"
